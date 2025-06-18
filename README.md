@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou a Manuela!<br><br>🎓 Estudante de Desenvolvimento de Sistemas no IFAL  <br>🌐 Tecnologia, programação web e gerenciamento de dados <br>📍 Maceió - AL | Disponível para estágio ou jovem aprendiz <br><br>---<br><br>## 🛠️ Tecnologias que uso<br><br>- **Linguagens:** JavaScript, HTML, CSS, SQL  <br>- **Frameworks & Bibliotecas:** Node.js, Express  <br>- **Banco de Dados:** MySQL (com prática em gerenciamento e organização de dados)  <br>- **Ferramentas:** Git, GitHub, VS Code  <br><br>---<br><br>## 📫 Contato<br><br>- ✉️ Email: manuoliveiraofficial@gmail.com- ☎️Telefone:  (82) 98790-0902<br><br>---<br>
+# 👋 Olá! Eu sou a Manuela!
+🎓 Estudante de Desenvolvimento de Sistemas no IFAL  <br>🌐 Tecnologia, programação web e gerenciamento de dados <br>📍 Maceió - AL | Disponível para estágio ou jovem aprendiz <br><br>---<br><br>## 🛠️ Tecnologias que uso<br><br>- **Linguagens:** JavaScript, HTML, CSS, SQL  <br>- **Frameworks & Bibliotecas:** Node.js, Express  <br>- **Banco de Dados:** MySQL (com prática em gerenciamento e organização de dados)  <br>- **Ferramentas:** Git, GitHub, VS Code  <br><br>---<br><br>## 📫 Contato<br><br>- ✉️ Email: manuoliveiraofficial@gmail.com- ☎️Telefone:  (82) 98790-0902<br><br>---<br>
 
 
 ## 🌐 Redes Sociais:
