@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou a Manuela!
-🎓 Estudante de Desenvolvimento de Sistemas no IFAL  <br>🌐 Tecnologia, programação web e gerenciamento de dados <br>📍 Maceió - AL | Disponível para estágio ou jovem aprendiz <br><br>---<br><br>
-##📫 Contato<br><br>- ✉️ Email: manuoliveiraofficial@gmail.com- ☎️Telefone:  (82) 98790-0902<br><br>---<br>
+🎓 Estudante de Desenvolvimento de Sistemas no IFAL  <br>🌐 Tecnologia, programação web e gerenciamento de dados <br>📍 Maceió - AL | Disponível para estágio ou jovem aprendiz <br>
+## 📫 Contato:
+✉️ Email: manuoliveiraofficial@gmail.com <br> ☎️Telefone:  (82) 98790-0902<br>
 
 
 ## 🌐 Redes Sociais:
